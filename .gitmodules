@@ -1,0 +1,6 @@
+[submodule "the-power"]
+	path = the-power
+	url = https://github.com/gm3dmo/the-power
+[submodule "blog_application"]
+	path = blog_application
+	url = https://github.com/abashir236/blog_application
